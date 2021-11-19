@@ -1,0 +1,9 @@
+C:\Users\anjlue\source\repos\MovingAverages\MovingAverages\bin\Debug\net452\MovingAverages.exe.config
+C:\Users\anjlue\source\repos\MovingAverages\MovingAverages\bin\Debug\net452\MovingAverages.exe
+C:\Users\anjlue\source\repos\MovingAverages\MovingAverages\bin\Debug\net452\MovingAverages.pdb
+C:\Users\anjlue\source\repos\MovingAverages\MovingAverages\obj\Debug\net452\MovingAverages.csprojAssemblyReference.cache
+C:\Users\anjlue\source\repos\MovingAverages\MovingAverages\obj\Debug\net452\MovingAverages.AssemblyInfoInputs.cache
+C:\Users\anjlue\source\repos\MovingAverages\MovingAverages\obj\Debug\net452\MovingAverages.AssemblyInfo.cs
+C:\Users\anjlue\source\repos\MovingAverages\MovingAverages\obj\Debug\net452\MovingAverages.csproj.CoreCompileInputs.cache
+C:\Users\anjlue\source\repos\MovingAverages\MovingAverages\obj\Debug\net452\MovingAverages.exe
+C:\Users\anjlue\source\repos\MovingAverages\MovingAverages\obj\Debug\net452\MovingAverages.pdb
